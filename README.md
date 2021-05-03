@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on an ethereum based Dapp with a react front-end <br>
-🌱 I’m currently learning to make progressive web applications with various tools
+🌱 I’m currently learning how to make progressive web applications with various tools
 ### 📫 reach me on [LinkedIn](https://www.linkedin.com/in/dror-tartakovsky/) 
