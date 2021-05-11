@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on an ethereum based Dapp with a react front-end <br>
+🔭 I’m currently working on a Redis based CRUD API <br>
 🌱 I’m currently learning how to make progressive web applications with various tools
 ### 📫 reach me on [LinkedIn](https://www.linkedin.com/in/dror-tartakovsky/) 
